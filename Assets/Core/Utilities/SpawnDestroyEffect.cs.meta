@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 99de537d053197b5eaa32bc75b84b476
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _winningEffect: {fileID: 5546332230902795399, guid: 12389d903eb68112e96935929c35b423, type: 3}
+  - _losingEffect: {fileID: 5546332230902795399, guid: 9ea05cd44a7bbd50cb5d68559ad81be2, type: 3}
+  - _drawEffect: {fileID: 5546332230902795399, guid: 9ea05cd44a7bbd50cb5d68559ad81be2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

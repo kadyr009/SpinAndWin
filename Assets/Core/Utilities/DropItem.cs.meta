@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1116d7e2374a0b8a393fcbd7e1fa1347
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coinPrefab: {fileID: 6625902662233858852, guid: 7b8c5d80fb8bdd33d83aca97c50a26c1, type: 3}
+  - freezeBuffPrefab: {fileID: 6625902662233858852, guid: 557d8670af58e76de93b0cc5886beac0, type: 3}
+  - InvisibleBuffPrefab: {fileID: 6625902662233858852, guid: 97ea614f088faad42be7ce054460fb08, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

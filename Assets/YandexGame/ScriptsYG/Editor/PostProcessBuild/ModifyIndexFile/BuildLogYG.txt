@@ -1,0 +1,2 @@
+Build path: /home/erik/Spin and Win/SpinAndWin_Build/SpinAndWin_Build6
+Build number: 6
